@@ -22,21 +22,21 @@ Learning Puppet
 
 4. Facter and Variables
 	- Undertanding facter
-	- fetching facter
+	- Fetching facts
 	- Using facter substitutuion in template
 	- Using facter substitution in manifests
-	- Undertsnading variables and naming convention
+	- Understanding variables and naming convention
 	- Using variables in Manifests
 	- Using variables in templates
 
 5. Custom facts
-	- Crating own custom fact
+	- Creating own custom fact
 	- Using custom fact in puppet code
 	- Deploying resources in array
 
 6. using conditionals
-  - Case statements
-  - If-else
+        - Case statements
+        - If-else
 
 6. Manifest segregation
 	- Node segregation to include node wise modules
@@ -51,7 +51,7 @@ Learning Puppet
 	- Hiera as ENC to maintain classes and values.
 
 8. Relational metaparameters
-	- understanding main metaparameters
+	- Understanding main metaparameters
 	- Chaining Arrows
 
 9. Understanding defined resource type
