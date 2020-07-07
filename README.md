@@ -40,7 +40,7 @@
    1. Case statements
    1. If-else
 
-7. **Manifest segregation
+7. **Manifest segregation**
 	1. Node segregation to include node wise modules
 	1. Defining resources in global manifests
 	1. Defining class directly inside global manifest
