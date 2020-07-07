@@ -66,6 +66,6 @@
 
 12. **Installing and using Foreman for Puppet reporting**
 
-13.  **Advanced Puppet**
+13. **Advanced Puppet**
 	1. Using one module within another.
 	1. Testing it under different conditions.
