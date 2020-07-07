@@ -2,6 +2,8 @@
 ----------------
 ### For any queries email: *learningtechnix@gmail.com*
 
+![image](https://user-images.githubusercontent.com/64873197/86791315-0aa62500-c087-11ea-9b30-afcb2a9cb7c7.png)
+
 1. **Introduction**
 	1. Understanding Puppet Workflow
 	1. Writing first manifest
